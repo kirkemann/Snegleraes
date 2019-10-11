@@ -27,14 +27,14 @@ var snegl2 = {
 var snegl3 = {
     id: "c",
     navn: "Bente",
-    foto: "./assets/images/snegl3.png",
+    foto: "/assets/images/snegl3.png",
     x: -160,
     y: 80
 };
 var snegl4 = {
     id: "d",
     navn: "Bent",
-    foto: "snegl4.png",
+    foto: "assets/images/snegl4.png",
     x: -160,
     y: 160
 };

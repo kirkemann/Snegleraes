@@ -13,7 +13,7 @@
 var snegl1 = {
     id: "a",
     navn: "Svend",
-    foto: "../images/snegl1.png",
+    foto: "/Snegleraes/assets/images/snegl1.png",
     x: -160,
     y: -80
 };

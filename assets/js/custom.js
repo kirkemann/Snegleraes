@@ -13,14 +13,14 @@
 var snegl1 = {
     id: "a",
     navn: "Svend",
-    foto: "/assets/images/snegl1.png",
+    foto: "images/snegl1.png",
     x: -160,
     y: -80
 };
 var snegl2 = {
     id: "b",
     navn: "Aage",
-    foto: "/assets/images/snegl2.png",
+    foto: "/images/snegl2.png",
     x: -160,
     y: 0
 };
